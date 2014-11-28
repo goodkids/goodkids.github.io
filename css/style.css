@@ -192,15 +192,15 @@ h1 {
   clear: both;
 }
 ::-webkit-input-placeholder {
-  color: #fff;
+  color: #ac8787;
   padding: 2px 0 0 4px;
 }
 ::-moz-placeholder {
-  color: #fff;
+  color: #ac8787;
   padding: 2px 0 0 4px;
 }
 :-ms-input-placeholder {
-  color: #fff;
+  color: #ac8787;
   padding: 2px 0 0 4px;
 }
 ::-webkit-input-placeholder::before {
@@ -233,7 +233,7 @@ input[type="search"]::-webkit-search-decoration {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   content: '\f00d';
-  color: #fff;
+  color: #ac8787;
   padding-right: 4px;
 }
 /* css3 animate */
@@ -369,7 +369,7 @@ body >header {
   box-shadow: 2px 4px 5px rgba(3,3,3,0.2);
   background-image: url("/img/41.jpg");
   background-repeat: no-repeat;
-  color: #fff;
+  color: #ac8787;
   padding: 1em 0 0.8em;
 }
 @media only screen and (min-width: 1024px) {
@@ -390,7 +390,7 @@ body >header >div {
 }
 body >header a {
   display: block;
-  color: #fff;
+  color: #ac8787;
 }
 #imglogo {
   float: left;
@@ -533,8 +533,8 @@ header nav ul li a:hover {
 }
 .search input {
   line-height: 1.7;
-  border: 1px solid #fff;
-  color: #fff;
+  border: 1px solid #ac8787;
+  color: #ac8787;
   background: transparent;
   width: 80%;
   padding-left: 0.5em;
@@ -855,13 +855,13 @@ article .article-content .kb {
   border: 1px solid #ccc;
   background-color: code-color;
   color: #8f8f8f;
-  -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.2), 0 0 0 2px #fff inset;
-  box-shadow: 0 1px 0 rgba(0,0,0,0.2), 0 0 0 2px #fff inset;
+  -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.2), 0 0 0 2px #ac8787 inset;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.2), 0 0 0 2px #ac8787 inset;
   -webkit-border-radius: 3px;
   border-radius: 3px;
   display: inline-block;
   margin: 0 0.1em;
-  text-shadow: 0 1px 0 #fff;
+  text-shadow: 0 1px 0 #ac8787;
   line-height: 1.5;
   white-space: nowrap;
 }
@@ -1111,7 +1111,7 @@ footer.article-footer {
   margin-left: -0.75em;
 }
 .share a:hover:before {
-  color: #fff;
+  color: #ac8787;
 }
 .article-share-twitter:before {
   content: "\f099";
@@ -1156,7 +1156,7 @@ footer.article-footer {
   left: 50%;
   margin-top: -7.5em;
   margin-left: -7.5em;
-  background: #fff;
+  background: #ac8787;
   border: 2px solid #ccc;
   -webkit-border-radius: 3px;
   border-radius: 3px;
@@ -1273,7 +1273,7 @@ footer.article-footer {
   background: #e6e6e6;
 }
 .article-tags a:hover {
-  color: #fff;
+  color: #ac8787;
   background: #2ca6cb;
 }
 .article-categories {
@@ -1291,7 +1291,7 @@ footer.article-footer {
   margin: 0 0.3em;
 }
 .article-category-link:hover {
-  color: #fff !important;
+  color: #ac8787 !important;
   background: #2ca6cb;
 }
 .article-nav {
@@ -1312,7 +1312,7 @@ footer.article-footer {
 .article-nav .prev a:hover,
 .article-nav .next a:hover {
   background: #2ca6cb;
-  color: #fff;
+  color: #ac8787;
 }
 .article-nav .prev {
   width: 100%;
@@ -1454,8 +1454,8 @@ section.comment {
 }
 .openaside a {
   display: block;
-  color: #fff;
-  border: 1px solid #fff;
+  color: #ac8787;
+  border: 1px solid #ac8787;
   -webkit-border-radius: 5px;
   border-radius: 5px;
   background: #bdbdbd;
@@ -1596,7 +1596,7 @@ section.comment {
   }
 }
 .rsspart a {
-  color: #fff;
+  color: #ac8787;
   display: block;
   padding: 0.625em 0;
   text-align: center;
@@ -1725,7 +1725,7 @@ section.comment {
 }
 footer {
   margin-top: 1em;
-  background: #282828;
+  background: #48608e;
   padding: 0 2% 0.5em;
 }
 #footer {
@@ -1750,7 +1750,7 @@ footer {
   display: block;
   width: 0.5em;
   height: 6.25em;
-  border-right: 0.125em solid #fff;
+  border-right: 0.125em solid #ac8787;
   margin: 0 auto;
 }
 @media only screen and (min-width: 768px) {
@@ -1798,7 +1798,7 @@ footer {
   line-height: 1.3em;
   width: 90%;
   margin: 0 auto;
-  color: #fff;
+  color: #ac8787;
 }
 @media only screen and (min-width: 768px) {
   .info {
@@ -1830,7 +1830,7 @@ footer {
   float: left;
   display: block;
   width: 14%;
-  color: #fff;
+  color: #ac8787;
   font-size: 180%;
   padding: 0.5em;
 }
@@ -1871,7 +1871,7 @@ footer {
   -moz-osx-font-smoothing: grayscale;
   font-family: "covered_by_your_graceregular";
   width: 100%;
-  color: #fff;
+  color: #ac8787;
   text-align: center;
 }
 @media only screen and (min-width: 768px) {
@@ -1880,7 +1880,7 @@ footer {
   }
 }
 .copyright a {
-  color: #fff;
+  color: #ac8787;
 }
 .copyright a:hover {
   color: #2ca6cb;
@@ -2125,7 +2125,7 @@ pre .xml .cdata {
 }
 textarea {
   color: #817c7c !important;
-  background: #fff !important;
+  background: #ac8787 !important;
 }
 textarea::-webkit-input-placeholder {
   color: #817c7c !important;
