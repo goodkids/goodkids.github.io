@@ -1725,7 +1725,7 @@ section.comment {
 }
 footer {
   margin-top: 1em;
-  background: #48608e;
+  background: #636363;
   padding: 0 2% 0.5em;
 }
 #footer {
@@ -2125,7 +2125,7 @@ pre .xml .cdata {
 }
 textarea {
   color: #817c7c !important;
-  background: #ac8787 !important;
+  background: #eee5de !important;
 }
 textarea::-webkit-input-placeholder {
   color: #817c7c !important;
