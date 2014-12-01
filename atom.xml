@@ -4,7 +4,7 @@
   <subtitle><![CDATA[take me to your heart]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-11-28T10:19:22.888Z</updated>
+  <updated>2014-12-01T02:50:46.191Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,38 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[小想法]]></title>
+    <link href="http://yoursite.com/2014/12/01/article7/"/>
+    <id>http://yoursite.com/2014/12/01/article7/</id>
+    <published>2014-12-01T01:41:02.000Z</published>
+    <updated>2014-12-01T02:50:02.000Z</updated>
+    <content type="html"><![CDATA[<p>  蛋糕店内的装修主题要迎合你的消费群体：学生（多指：初中生、高中生。）<br>  可以从以下几个方面入手：</p>
+<h2 id="1、主题环境">1、主题环境</h2>
+<p>  学生多喜欢温馨、浪漫的环境。<br>  提供几个参考主题：<br>  <img src="/img/dangao1.jpg" alt=""><br>  <img src="/img/dangao2.jpg" alt=""><br>  <img src="/img/dangao3.jpg" alt=""></p>
+<h2 id="2、主题音乐">2、主题音乐</h2>
+<p>  当前网页上的音乐就挺好，温柔婉转悠扬。。。（音乐列表在网页板块的右侧边栏里）</p>
+<h2 id="3、免费WiFi">3、免费WiFi</h2>
+<p>  差点忘了这条了，一定要提供免费WiFi，就这一条肯定会吸引大量的学生，现在学生拥有手机已经是很普遍的现象了，但他们往往缺的就是流量。。。</p>
+<h2 id="3、心愿墙">3、心愿墙</h2>
+<p>  学生（小孩纸）总是喜欢写写画画。所以留一处心愿墙，让顾客写下自己的心愿（匿名或者实名）。装修的时候，在某处墙上留下一平米的位置，留作心愿墙。心愿墙的修饰也要好好的想一番。。。</p>
+<h2 id="4、推出学生永久特价">4、推出学生永久特价</h2>
+<p>  这个具体细说。。。</p>
+<h2 id="5、针对节假日、店庆日等推出特价活动">5、针对节假日、店庆日等推出特价活动</h2>
+<h2 id="6、其他">6、其他</h2>
+<p>  店服、、、做出属于自己的东西。。。思维发散。。。具体细说。。。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[Confirming the target，just do it, and you will be successful.]]>
+    
+    </summary>
+    
+      <category term="little ideas" scheme="http://yoursite.com/tags/little-ideas/"/>
+    
+      <category term="小想法" scheme="http://yoursite.com/categories/%E5%B0%8F%E6%83%B3%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
