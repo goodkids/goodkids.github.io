@@ -4,7 +4,7 @@
   <subtitle><![CDATA[take me to your heart]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-12-01T02:58:01.717Z</updated>
+  <updated>2014-12-01T09:08:50.054Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,19 +19,22 @@
     <link href="http://yoursite.com/2014/12/01/article7/"/>
     <id>http://yoursite.com/2014/12/01/article7/</id>
     <published>2014-12-01T01:41:02.000Z</published>
-    <updated>2014-12-01T02:50:02.000Z</updated>
+    <updated>2014-12-01T08:53:06.000Z</updated>
     <content type="html"><![CDATA[<p>  蛋糕店内的装修主题要迎合你的消费群体：学生（多指：初中生、高中生。）<br>  可以从以下几个方面入手：</p>
 <h2 id="1、主题环境">1、主题环境</h2>
-<p>  学生多喜欢温馨、浪漫的环境。<br>  提供几个参考主题：<br>  <img src="/img/dangao1.jpg" alt=""><br>  <img src="/img/dangao2.jpg" alt=""><br>  <img src="/img/dangao3.jpg" alt=""></p>
+<p>  学生多喜欢温馨、浪漫的环境。<br>  提供几个参考主题：<br>  <img src="http://goodkids.qiniudn.com/img/dangao1.jpg" alt=""><br>  <img src="http://goodkids.qiniudn.com/img/dangao2.jpg" alt=""><br>  <img src="http://goodkids.qiniudn.com/img/dangao3.jpg" alt=""></p>
 <h2 id="2、主题音乐">2、主题音乐</h2>
 <p>  当前网页上的音乐就挺好，温柔婉转悠扬。。。（音乐列表在网页板块的右侧边栏里）</p>
 <h2 id="3、免费WiFi">3、免费WiFi</h2>
 <p>  差点忘了这条了，一定要提供免费WiFi，就这一条肯定会吸引大量的学生，现在学生拥有手机已经是很普遍的现象了，但他们往往缺的就是流量。。。</p>
 <h2 id="3、心愿墙">3、心愿墙</h2>
 <p>  学生（小孩纸）总是喜欢写写画画。所以留一处心愿墙，让顾客写下自己的心愿（匿名或者实名）。装修的时候，在某处墙上留下一平米的位置，留作心愿墙。心愿墙的修饰也要好好的想一番。。。</p>
+<h2 id="4、提供免费充电服务">4、提供免费充电服务</h2>
+<p>  店里提供免费充电服务，为手机、MP3、MP4、MP5、iPad等移动设备充电。。。</p>
 <h2 id="4、推出学生永久特价">4、推出学生永久特价</h2>
 <p>  这个具体细说。。。</p>
 <h2 id="5、针对节假日、店庆日等推出特价活动">5、针对节假日、店庆日等推出特价活动</h2>
+<p>  这个具体可以设计。。。</p>
 <h2 id="6、其他">6、其他</h2>
 <p>  店服、、、做出属于自己的东西。。。思维发散。。。具体细说。。。</p>
 ]]></content>
@@ -82,7 +85,7 @@
     <link href="http://yoursite.com/2014/11/21/article6/"/>
     <id>http://yoursite.com/2014/11/21/article6/</id>
     <published>2014-11-21T10:14:43.000Z</published>
-    <updated>2014-11-21T10:29:13.000Z</updated>
+    <updated>2014-12-01T08:48:38.000Z</updated>
     <content type="html"><![CDATA[<h2 id="JUST_FOR_YOU">JUST FOR YOU</h2>
 <p>  静静地&nbsp;&nbsp;&nbsp;&nbsp;轻轻抱你&nbsp;&nbsp;&nbsp;&nbsp;如从前细味</p>
 <p>  这夜里将身暖你&nbsp;&nbsp;&nbsp;&nbsp;要共度这世纪</p>
@@ -93,7 +96,7 @@
 <p>  情像醇旧美酒</p>
 <p>  JUST&nbsp;&nbsp;FOR&nbsp;&nbsp;YOU&nbsp;&nbsp;&nbsp;&nbsp;在星际漫游&nbsp;&nbsp;&nbsp;&nbsp;伴你双手</p>
 <p>  共渡以后&nbsp;&nbsp;&nbsp;&nbsp;I&nbsp;&nbsp;LOVE&nbsp;&nbsp;YOU</p>
-<p>  <img src="/img/love2.jpg" alt=""></p>
+<p>  <img src="http://goodkids.qiniudn.com/img/love2.jpg" alt=""></p>
 <p>  若日后&nbsp;&nbsp;&nbsp;&nbsp;伤心叹气&nbsp;&nbsp;&nbsp;&nbsp;无聊无趣味</p>
 <p>  叫唤我即奔向你&nbsp;&nbsp;&nbsp;&nbsp;吻掉倦意痛悲</p>
 <p>  若日后&nbsp;&nbsp;&nbsp;&nbsp;一生有你&nbsp;&nbsp;&nbsp;&nbsp;同行无退避</p>
@@ -111,6 +114,8 @@
     
       <category term="just for you" scheme="http://yoursite.com/tags/just-for-you/"/>
     
+      <category term="for love" scheme="http://yoursite.com/categories/for-love/"/>
+    
   </entry>
   
   <entry>
@@ -118,7 +123,7 @@
     <link href="http://yoursite.com/2014/11/14/article5/"/>
     <id>http://yoursite.com/2014/11/14/article5/</id>
     <published>2014-11-14T01:40:25.000Z</published>
-    <updated>2014-11-14T03:40:22.000Z</updated>
+    <updated>2014-12-01T08:47:39.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景：三开三败">背景：三开三败</h2>
 <p>  广州白云区是个以工业为主的城市地区，在某工业区路旁边有一个占地面积100平方的小店。这个小店，原本是一个小型仓库，后改为门面出租。</p>
 <p>  这个店的东南向全是工业区，西北是一条大马路，对面一条街条是汽配市场和建材装饰材料市场，每天都有大量的客人在这市场批发商品，这条街上同时也滋生了大大小小十多家餐馆，主要是湘菜馆、客家菜馆、粤菜馆。市场背后就是靠近老飞机场。餐馆的正面空间较大，可以停几台汽车。周围居住人数大约是10万人。从客观环境上看，餐馆的地理位置与市场隔一条马路，稍远了一点，但有空间停车，而其它的餐馆的停车多是停在人行道上。</p>
@@ -165,6 +170,8 @@
     
       <category term="餐厅生存法则" scheme="http://yoursite.com/tags/%E9%A4%90%E5%8E%85%E7%94%9F%E5%AD%98%E6%B3%95%E5%88%99/"/>
     
+      <category term="走过的路" scheme="http://yoursite.com/categories/%E8%B5%B0%E8%BF%87%E7%9A%84%E8%B7%AF/"/>
+    
   </entry>
   
   <entry>
@@ -172,12 +179,12 @@
     <link href="http://yoursite.com/2014/11/12/article4/"/>
     <id>http://yoursite.com/2014/11/12/article4/</id>
     <published>2014-11-12T06:50:56.000Z</published>
-    <updated>2014-11-14T03:40:14.000Z</updated>
+    <updated>2014-12-01T08:46:53.000Z</updated>
     <content type="html"><![CDATA[<h2 id="Clark_Benson艰辛之路">Clark Benson艰辛之路</h2>
 <p>  2007 年的时候，Clark Benson 在卖掉了他的公司 eCrush 后，面临着两个选择：他可以选择休假或者开始创办自己的第 5 家公司——Ranker。Ranker 是一家众包评价网站，用户可以在这个网站上对所有的东西进行评价，比如电影、运动员等任何东西。出于自身的压力，Benson 选择了后者。照他的话来说，这个选择导致了巨大的错误。</p>
 <p>  “在经历了 12 年完全投入创业的生活方式之后，我却没有拿出足够的时间在这次创业过程中进行足够的思考。当这些压力聚集在一起，让我焦头烂额的时候，我也没有拿出足够的时间来思考要打造的团队和所需的资源的更多细节。”Benson 说，“我有一个超棒的概念，我希望在我做出来之前，别人都没法实现它。”</p>
 <p>  Benson 承认，这是他所犯下的错误中的第一个，但犯错的竟是一个拥有 20 年创业经验的创始人。不过现在，他的公司 Ranker 每月已经有了 1900 万独立访问用户，被用户认为是消费数据和评价内容的藏宝库，深受用户的喜欢。为什么犯了那么多错误还能取得这样的成功呢？在本次独家访问中，Benson 将分享他曾经犯下的 5 个最大的错误——他也看到过其他创始人在创业中犯过同样的错误——以及他是如何挽救这些错误所带来的后果的。</p>
-<p>  <img src="/img/Benson2.jpg" alt=""></p>
+<p>  <img src="http://goodkids.qiniudn.com/img/Benson2.jpg" alt=""></p>
 <p>  <strong>对于创业企业来讲，招聘“聪明的”工程人才是错误的。</strong></p>
 <p>  因为在初创阶段，招聘人才是一件挑战性极强的的事情，创业者经常会在高薪资深工程师身上过分投资，然而这些工程师却不一定是适合初期创业环境的人。非技术创始人在招聘技术员工的时候尤其要小心，那些在简历中写的天花乱坠的应聘者更要下功夫审查，甚至可以邀请外部工程专家或者顾问来面试他们。Benson 不仅自己没有技术背景，而且他创业的地方也在远离家乡的洛杉矶。Benson 不是洛杉矶本地人，所以他没有很好的人脉来寻找优秀的工程师。</p>
 <p>  “我花了很多时间来面试高级工程师，面试中的一些问题甚至我自己都不知道答案是什么。”他说，“我招聘的时候根据自己获取到的有限的外部建议、我自己的感觉以及自己内心的疑问‘我喜欢这个人吗？我能和他一起工作吗？他们真的这么聪明吗？’反正我没有测试他们的编程水平。”</p>
@@ -239,6 +246,8 @@
     
       <category term="Clark Benson" scheme="http://yoursite.com/tags/Clark-Benson/"/>
     
+      <category term="走过的路" scheme="http://yoursite.com/categories/%E8%B5%B0%E8%BF%87%E7%9A%84%E8%B7%AF/"/>
+    
   </entry>
   
   <entry>
@@ -246,7 +255,7 @@
     <link href="http://yoursite.com/2014/11/12/article3/"/>
     <id>http://yoursite.com/2014/11/12/article3/</id>
     <published>2014-11-12T02:34:06.000Z</published>
-    <updated>2014-11-14T03:41:23.000Z</updated>
+    <updated>2014-12-01T08:45:30.000Z</updated>
     <content type="html"><![CDATA[<p>在家闲来无事，偶然翻了翻《西游记》，忽然觉得里面的许多故事挺有意思，倘若用现代人的视角来看西游记中的人和事，会发现别有一番洞天。闲话少叙，今天萌主来给大家讲讲为什么孙悟空的颠覆式创业之路注定遭遇失败。</p>
 <p>孙悟空，原来是傲来国花果山镇的一只籍籍无名的野候，没人教没人养，整日游手好闲，俨然一副一人吃饱全家不饿的地痞德行。后来，在一次运动会中他意外地夺得了第一名，引得一大批无业青年纷纷将其视作偶像，从此奠定了自己在花果山镇的老大地位。</p>
 <p>当了老大之后，孙悟空便寻思着做点实业，希望能改善一下花果山镇上的经济状况。他把创业的想法跟兄弟们商量了一下，大家觉得这年头创业不易，最好是先学点有用的技能和本领再创业。于是，孙悟空辞别了兄弟，只身前往东胜神州的菩提老祖培训学校，学习快跑和变身术。经过两年的学习，孙悟空终于拿到了的毕业证书，怀揣着创业梦的他很快便回到了花果山镇。</p>
@@ -273,6 +282,8 @@
     
       <category term="颠覆式创业" scheme="http://yoursite.com/tags/%E9%A2%A0%E8%A6%86%E5%BC%8F%E5%88%9B%E4%B8%9A/"/>
     
+      <category term="走过的路" scheme="http://yoursite.com/categories/%E8%B5%B0%E8%BF%87%E7%9A%84%E8%B7%AF/"/>
+    
   </entry>
   
   <entry>
@@ -280,7 +291,7 @@
     <link href="http://yoursite.com/2014/11/11/article2/"/>
     <id>http://yoursite.com/2014/11/11/article2/</id>
     <published>2014-11-11T02:29:57.000Z</published>
-    <updated>2014-11-14T03:41:49.000Z</updated>
+    <updated>2014-12-01T08:44:08.000Z</updated>
     <content type="html"><![CDATA[<h2 id="关于他在网易的故事">关于他在网易的故事</h2>
 <p>  伞哥，大名田春。在网易从事MIS相关工作，在业内有极高的声誉。</p>
 <p>  伞哥每天一身白衣，拿一把伞。他对网易内部的人说，伞是法律允许的最长的防身武器。一身白衣是他妈妈亲自给他做的。</p>

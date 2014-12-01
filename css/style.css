@@ -111,7 +111,7 @@ a img {
   -webkit-margin-after: 0;
 }
 body {
-  background-image: url("/img/42.png");
+  background-image: url("http://goodkids.qiniudn.com/img/42.png");
   font-family: "Helvetica Neue", "Helvetica", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
   font-size: 100%;
   color: #817c7c;
@@ -367,7 +367,7 @@ body >header {
   width: 100%;
   -webkit-box-shadow: 2px 4px 5px rgba(3,3,3,0.2);
   box-shadow: 2px 4px 5px rgba(3,3,3,0.2);
-  background-image: url("/img/41.jpg");
+  background-image: url("http://goodkids.qiniudn.com/img/41.jpg");
   background-repeat: no-repeat;
   color: #ac8787;
   padding: 1em 0 0.8em;
@@ -1764,7 +1764,7 @@ footer {
   width: 6.875em;
   height: 6.875em;
   margin: 0 auto;
-  background: no-repeat url("/img/author.jpg") left top;
+  background: no-repeat url("http://goodkids.qiniudn.com/img/author.jpg") left top;
   -webkit-background-size: 6.875em 6.875em;
   -moz-background-size: 6.875em 6.875em;
   background-size: 6.875em 6.875em;
